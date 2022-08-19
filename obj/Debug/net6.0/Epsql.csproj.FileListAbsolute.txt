@@ -1,0 +1,15 @@
+C:\Users\GAMING\source\repos\Epsql\bin\Debug\net6.0\Epsql.exe
+C:\Users\GAMING\source\repos\Epsql\bin\Debug\net6.0\Epsql.deps.json
+C:\Users\GAMING\source\repos\Epsql\bin\Debug\net6.0\Epsql.runtimeconfig.json
+C:\Users\GAMING\source\repos\Epsql\bin\Debug\net6.0\Epsql.dll
+C:\Users\GAMING\source\repos\Epsql\bin\Debug\net6.0\ref\Epsql.dll
+C:\Users\GAMING\source\repos\Epsql\bin\Debug\net6.0\Epsql.pdb
+C:\Users\GAMING\source\repos\Epsql\obj\Debug\net6.0\Epsql.csproj.AssemblyReference.cache
+C:\Users\GAMING\source\repos\Epsql\obj\Debug\net6.0\Epsql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMING\source\repos\Epsql\obj\Debug\net6.0\Epsql.AssemblyInfoInputs.cache
+C:\Users\GAMING\source\repos\Epsql\obj\Debug\net6.0\Epsql.AssemblyInfo.cs
+C:\Users\GAMING\source\repos\Epsql\obj\Debug\net6.0\Epsql.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\source\repos\Epsql\obj\Debug\net6.0\Epsql.dll
+C:\Users\GAMING\source\repos\Epsql\obj\Debug\net6.0\ref\Epsql.dll
+C:\Users\GAMING\source\repos\Epsql\obj\Debug\net6.0\Epsql.pdb
+C:\Users\GAMING\source\repos\Epsql\obj\Debug\net6.0\Epsql.genruntimeconfig.cache

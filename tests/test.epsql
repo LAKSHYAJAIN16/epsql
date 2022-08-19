@@ -1,0 +1,6 @@
+dimport alpha
+
+^ j = JOIN
+
+// Perform a Join
+j t s w name = "pasta"
